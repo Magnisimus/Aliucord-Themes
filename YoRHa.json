@@ -1,8 +1,9 @@
 {
     "manifest": {
         "version": "1.0.0",
-        "name": "Yorha",
-        "author": "Samm-Cheese#9500"
+        "name": "YoRHa",
+        "author": "Samm-Cheese#9500",
+        "updater": "https:\/\/raw.githubusercontent.com\/SammCheese\/Aliucord-Themes\/main\/YoRHa.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/841798584856608798\/901720753471381544\/yorha.png"
@@ -11,14 +12,14 @@
     "simple_colors": {
         "background_secondary": 369098752,
         "background": 385875968,
-        "mention_highlight": 352302785,
+        "mention_highlight": 727803239,
         "accent": -8288631
     },
     "colors": {
-        "primary_dark_200": -8288631,
+        "primary_dark_200": -4144188,
         "brand_new_530": -13224394,
-        "primary_dark_300": -8288631,
-        "primary_dark_360": -8288631,
+        "primary_dark_300": -4144188,
+        "primary_dark_360": -4144188,
         "primary_700": 1803650697,
         "brand_new": -8288631,
         "brand_new_560": -8288631,
